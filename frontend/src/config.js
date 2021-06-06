@@ -1,0 +1,6 @@
+const API_URL = 'http://127.0.0.1:8000/api'
+const PUSHER_APP_KEY = 'df0686f72c439f7aa8a7'
+const PUSHER_APP_CLUSTER = 'ap1'
+
+
+export { API_URL, PUSHER_APP_KEY, PUSHER_APP_CLUSTER }
